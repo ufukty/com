@@ -1,0 +1,23 @@
+:root {
+  color-scheme: light dark;
+}
+
+html {
+  color: light-dark(#444, #ddd);
+  background-color: light-dark(#fff, #000);
+  width: min(100%, 700px);
+  margin: 0 auto;
+}
+
+body {
+  padding-bottom: 200px;
+}
+
+li {
+  line-height: 2em;
+}
+
+img {
+  width: 100%;
+  outline: 2px solid purple;
+}
