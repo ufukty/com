@@ -80,7 +80,7 @@ A Visual Studio Code extension that reduces the opacity of matching statements a
 
 Provides basic authentication for an OpenVPN server. It supports TOTP-based codes and password checks and uses Argon2 to handle hashing securely.
 
-### Reddit
+### Reddit Galaxy
 
 [GitHub](https://github.com/ufukty/reddit-galaxy)
 
