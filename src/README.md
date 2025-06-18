@@ -186,6 +186,8 @@ Social network backend and frontend. Written with JS and PHP demonstrating conne
 
 Complete implementation of unbeatable TicTacToe game.
 
+**Highlights:**
+
 -   Visual C++
 -   Alpha-Beta pruning
 
