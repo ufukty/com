@@ -129,6 +129,8 @@ Visualization of the links between subreddits.
 **Highlights:**
 
 -   Network visualization
+-   Python
+-   Matplotlib
 
 **Links:**
 
@@ -143,6 +145,9 @@ Simulates the spread of hypothetical innovation throughout from its genesis to t
 **Highlights:**
 
 -   Agent based simulation
+-   Python
+-   NetworkX
+-   Matplotlib
 
 **Links:**
 
