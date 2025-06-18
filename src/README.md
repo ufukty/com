@@ -32,157 +32,158 @@ Tools with examples on GitHub:
 
 ### Gohandlers (2025)
 
-{.project-links}
-
--   [GitHub](https://github.com/ufukty/gohandlers)
--   [Docs](https://gohandlers.pages.dev/)
-
 <img class="project-promo" alt="Social media cart for Gohandlers" src=".assets/gohandlers.png">
 
 Generate code for strongly typed and reflectionless request-response binding, request validation, registering routes and Go clients.
 
-{.hashtags}
+**Highlights:**
 
 -   Go
 -   AST
 
+**Links:**
+
+-   [GitHub](https://github.com/ufukty/gohandlers)
+-   [Docs](https://gohandlers.pages.dev/)
+
 ### Kask (2025)
-
-{.project-links}
-
--   [GitHub](https://github.com/ufukty/kask)
 
 A static website generator allows developer-writer collaboration without synchronization.
 
-{.hashtags}
+**Highlights:**
 
 -   Go
 -   Templating
 
+**Links:**
+
+-   [GitHub](https://github.com/ufukty/kask)
+
 ### Gonfique Playground (2024-2025)
-
-{.project-links}
-
--   [Playground](https://gonfique.pages.dev)
--   [GitHub](https://github.com/ufukty/gonfique-playground)
 
 <img class="project-promo" alt="Screenshot of Gonfique Playground" src=".assets/gp.png">
 
 Brings Gonfique to browsers.
 
-{.hashtags}
+**Highlights:**
 
 -   TypeScript
 -   Microsoft Monaco
 -   Go WASM
 
+**Links:**
+
+-   [Playground](https://gonfique.pages.dev)
+-   [GitHub](https://github.com/ufukty/gonfique-playground)
+
 ### Gonfique (2024-2025)
-
-{.project-links}
-
--   [GitHub](https://github.com/ufukty/gonfique)
 
 <img class="project-promo" alt="Gonfique logo" src=".assets/gonfique.png">
 
 Customizable and offline YAML and JSON to Go for config files.
 
-{.hashtags}
+**Highlights:**
 
 -   Go
 -   Code generator
 
+**Links:**
+
+-   [GitHub](https://github.com/ufukty/gonfique)
+
 ### Dim (2024-2025)
-
-{.project-links}
-
--   [Marketplace](https://marketplace.visualstudio.com/items?itemName=ufukty.dim)
--   [GitHub](https://github.com/ufukty/dim)
 
 <img class="project-promo" alt="Dim logo" src=".assets/dim.png">
 
 A Visual Studio Code extension lets you define regex rules to dim boring parts of code and make the main logic pop.
 
-{.hashtags}
+**Highlights:**
 
--   DX
+-   Developer Experience
+-   Visual Studio Code Extensions API
+
+**Links:**
+
+-   [Marketplace](https://marketplace.visualstudio.com/items?itemName=ufukty.dim)
+-   [GitHub](https://github.com/ufukty/dim)
 
 ### ovpn-auth (2021-2025)
 
-{.project-links}
-
--   [GitHub](https://github.com/ufukty/ovpn-auth)
-
 Simple to use, easy to deploy 2FA login for OpenVPN servers.
 
-{.hashtags}
+**Highlights:**
 
 -   Go
 -   Security
 
+**Links:**
+
+-   [GitHub](https://github.com/ufukty/ovpn-auth)
+
 ### Reddit Galaxy (2020)
-
-{.project-links}
-
--   [GitHub](https://github.com/ufukty/reddit-galaxy)
 
 <img class="project-promo" alt="reddit galaxy" src=".assets/reddit-galaxy.jpg">
 
 Visualization of the links between subreddits.
 
-{.hashtags}
+**Highlights:**
 
 -   Network visualization
 
+**Links:**
+
+-   [GitHub](https://github.com/ufukty/reddit-galaxy)
+
 ### Diffusion of Innovation simulation (2020)
-
-{.project-links}
-
--   [GitHub](https://github.com/ufukty/diffusion-of-innovation)
 
 <img class="project-promo" alt="diffusion of innovation project screen capture" src=".assets/doi.gif">
 
 Simulates the spread of hypothetical innovation throughout from its genesis to total market domination to observe S-curve phenomenon and the influence of populars on communities with varying topologies.
 
-{.hashtags}
+**Highlights:**
 
 -   Agent based simulation
 
+**Links:**
+
+-   [GitHub](https://github.com/ufukty/diffusion-of-innovation)
+
 ### ball-and-stick-man (2016)
-
-{.project-links}
-
--   [GitHub](https://github.com/ufukty/ball-and-stick-man)
 
 <img class="project-promo" alt="footage for ball-and-stick-man project" src=".assets/ball-and-stick.gif">
 
 A basic 3D demonstration with a movable camera, animated arms, a “tour” mode, and waving interactions.
 
-{.hashtags}
+**Highlights:**
 
 -   Computer graphics
 
+**Links:**
+
+-   [GitHub](https://github.com/ufukty/ball-and-stick-man)
+
 ### Poor Man's Social Media (2016,2024)
-
-{.project-links}
-
--   [GitHub](https://github.com/ufukty/poor-man-s-social-media)
 
 <img class="project-promo" alt="screen capture of poor man's social media project" src=".assets/social.gif">
 
 Social network backend and frontend. Written with JS and PHP demonstrating connection status manipulation and asynchronous API calls.
 
-{.hashtags}
+**Highlights:**
 
 -   Social media
 -   Web application
 
+**Links:**
+
+-   [GitHub](https://github.com/ufukty/poor-man-s-social-media)
+
 ### TicTacToe AI (2014-2018)
-
-{.project-links}
-
--   [GitHub](https://github.com/ufukty/TicTacToe-AI)
 
 Complete implementation of unbeatable TicTacToe game.
 
 -   Visual C++
 -   Alpha-Beta pruning
+
+**Links:**
+
+-   [GitHub](https://github.com/ufukty/TicTacToe-AI)
