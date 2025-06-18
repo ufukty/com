@@ -32,7 +32,7 @@ Tools with examples on GitHub:
 
 ### Gohandlers (2025)
 
-<img class="project-promo" alt="Social media cart for Gohandlers" src=".assets/gohandlers.png">
+![Social media cart for Gohandlers](.assets/gohandlers.png)
 
 Generate code for strongly typed and reflectionless request-response binding, request validation, registering routes and Go clients.
 
@@ -61,7 +61,7 @@ A static website generator allows developer-writer collaboration without synchro
 
 ### Gonfique Playground (2024-2025)
 
-<img class="project-promo" alt="Screenshot of Gonfique Playground" src=".assets/gp.png">
+![Screenshot of Gonfique Playground](.assets/gp.png)
 
 Brings Gonfique to browsers.
 
@@ -78,7 +78,7 @@ Brings Gonfique to browsers.
 
 ### Gonfique (2024-2025)
 
-<img class="project-promo" alt="Gonfique logo" src=".assets/gonfique.png">
+![Gonfique logo](.assets/gonfique.png)
 
 Customizable and offline YAML and JSON to Go for config files.
 
@@ -93,7 +93,7 @@ Customizable and offline YAML and JSON to Go for config files.
 
 ### Dim (2024-2025)
 
-<img class="project-promo" alt="Dim logo" src=".assets/dim.png">
+![Dim logo](.assets/dim.png)
 
 A Visual Studio Code extension lets you define regex rules to dim boring parts of code and make the main logic pop.
 
@@ -122,7 +122,7 @@ Simple to use, easy to deploy 2FA login for OpenVPN servers.
 
 ### Reddit Galaxy (2020)
 
-<img class="project-promo" alt="reddit galaxy" src=".assets/reddit-galaxy.jpg">
+![reddit galaxy](.assets/reddit-galaxy.jpg)
 
 Visualization of the links between subreddits.
 
@@ -138,7 +138,7 @@ Visualization of the links between subreddits.
 
 ### Diffusion of Innovation simulation (2020)
 
-<img class="project-promo" alt="diffusion of innovation project screen capture" src=".assets/doi.gif">
+![diffusion of innovation project screen capture](.assets/doi.gif)
 
 Simulates the spread of hypothetical innovation throughout from its genesis to total market domination to observe S-curve phenomenon and the influence of populars on communities with varying topologies.
 
@@ -155,7 +155,7 @@ Simulates the spread of hypothetical innovation throughout from its genesis to t
 
 ### ball-and-stick-man (2016)
 
-<img class="project-promo" alt="footage for ball-and-stick-man project" src=".assets/ball-and-stick.gif">
+![footage for ball-and-stick-man project](.assets/ball-and-stick.gif)
 
 A basic 3D demonstration with a movable camera, animated arms, a “tour” mode, and waving interactions.
 
@@ -169,7 +169,7 @@ A basic 3D demonstration with a movable camera, animated arms, a “tour” mode
 
 ### Poor Man's Social Media (2016,2024)
 
-<img class="project-promo" alt="screen capture of poor man's social media project" src=".assets/social.gif">
+![screen capture of poor man's social media project](.assets/social.gif)
 
 Social network backend and frontend. Written with JS and PHP demonstrating connection status manipulation and asynchronous API calls.
 
