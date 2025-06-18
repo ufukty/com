@@ -11,46 +11,30 @@ Software Developer with an MSc in Computer Engineering from Ankara University (2
 -   [GitHub](https://github.com/ufukty)
 -   [LinkedIn](https://linkedin.com/in/ufukty)
 
-## Tools and example work
+## Tools
 
-### Go
+### Within projects
 
--   [Gohandlers](https://github.com/ufukty/gohandlers) A CLI utility which generates handler helpers for parsing, building/writing and validating request and response structs; route lister; client implementation and client interface with type safety and zero reflection.
--   [Gonfique](https://github.com/ufukty/gonfique) A code generator written in Go that produces Go code from YAML or JSON file.
--   [Kask](https://github.com/ufukty/kask) A static site generator supports html-markdown mixed content, hierarchical CSS code splitting, and Go template propagation.
--   [ovpn-auth](https://github.com/ufukty/ovpn-auth) An easy-to-deploy OpenVPN authorization agent written in Go that works offline. It supports time-based one-time passwords (TOTPs) and password checks, and uses Argon2 for hashing.
+| Tool                   | Projects                                                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Go                     | [Gohandlers](#gohandlers), [Gonfique](#gonfique-2024-2025), [Kask](#kask), [ovpn-auth](#ovpn-auth-2021-2025) |
+| Python                 | [Diffusion of Innovation](#diffusion-of-innovation-simulation-2020), [Reddit Galaxy](#reddit-galaxy-2020)    |
+| JavaScript, TypeScript | [Gonfique Playground](#gonfique-playground-2024-2025), [Dim](#dim-2024-2025)                                 |
+| PHP                    | [Poor Man's Social Media](#poor-mans-social-media-20162024)                                                  |
+| C++                    | [TicTacToe AI with TUI](#TicTacToe-AI), [ball-and-stick-man](#ball-and-stick-man-2016)                       |
 
-### Python
+### With example work in GitHub
 
--   [Diffusion of Innovation](https://github.com/ufukty/diffusion-of-innovation) A Python script built with NetworkX and Matplotlib’s pyplot to simulate the spread of a hypothetical innovation.
--   [reddit-galaxy](https://github.com/ufukty/reddit-galaxy) A Python and NetworkX project using Matplotlib’s pyplot. Processes the dataset in Scala.
-
-### Bash, Make
-
--   [Droplet creation, templating and server configuration](https://github.com/ufukty/logbook/blob/main/platform/stage/deploy/vpn/local.sh)
-
-### JavaScript, TypeScript
-
--   [Gonfique Playground](https://github.com/ufukty/gonfique-playground) Written in TypeScript and compiled to JavaScript via Vite, built on Microsoft Monaco and loads a Go WASM binary.
--   [Dim](https://github.com/ufukty/dim) A Visual Studio Code extension written in TypeScript
-
-### Terraform, Packer (DigitalOcean)
-
--   [PR](https://github.com/hashicorp/terraform/pull/29127) for enabling Terraform users to encode and decode base32 strings
--   [PR](https://github.com/hashicorp/packer/pull/10093) for enabling Packer users to direct the provisioner to connect over private IP of droplet
-
-### PHP
-
--   [Poor Man's Social Media](https://github.com/ufukty/poor-man-s-social-media) WA PHP application that processes AJAX-based API requests and serves a simple frontend with basic JavaScript interactivity.
-
-### C++
-
--   [TicTacToe AI with TUI](https://github.com/ufukty/TicTacToe-AI) Implements alpha-beta pruning for TicTacToe.
--   [ball-and-stick-man](https://github.com/ufukty/ball-and-stick-man) Written in C++ with GLUT for basic 3D character movement and interactions.
+| Tool      | Examples                                                                                                       |
+| --------- | -------------------------------------------------------------------------------------------------------------- |
+| Bash      | [Droplet creation, templating and server configuration](#logbook/blob/main/platform/stage/deploy/vpn/local.sh) |
+| Terraform | [PR](https://github.com/hashicorp/terraform/pull/29127)                                                        |
+| Packer    | [PR](https://github.com/hashicorp/packer/pull/10093)                                                           |
+| Make      |                                                                                                                |
 
 ## Previews
 
-### Gonfique Playground
+### Gonfique Playground (2024-2025)
 
 [GitHub](https://github.com/ufukty/gonfique-playground)
 
@@ -58,7 +42,7 @@ Software Developer with an MSc in Computer Engineering from Ankara University (2
 
 Gonfique Playground brings Gonfique to the browser. It is a web app built on the Monaco editor and Golang WASM, providing an extremely responsive development environment where you can see the results of changes to the input file and Gonfique config in real time. Written in TypeScript and built with Vite to produce static files, it still works offline.
 
-### Gonfique
+### Gonfique (2024-2025)
 
 [GitHub](https://github.com/ufukty/gonfique)
 
@@ -66,7 +50,7 @@ Gonfique Playground brings Gonfique to the browser. It is a web app built on the
 
 An offline, customizable tool that generates Go code for YAML or JSON files, designed for those seeking an alternative to Mholt’s JSON-to-Go. The pre-alpha of version 2 introduces new features such as overriding resolved type expressions, implementing struct iterators, providing a choice between struct or map representations for JSON/YAML objects, and assigning parent references to nodes. It also improves existing capabilities, such as auto-generated type names that avoid collisions by choosing the shortest semantically valid name, and importing external packages for type replacement.
 
-### Dim
+### Dim (2024-2025)
 
 [GitHub](https://github.com/ufukty/dim)
 
@@ -74,13 +58,13 @@ An offline, customizable tool that generates Go code for YAML or JSON files, des
 
 A Visual Studio Code extension that reduces the opacity of matching statements and expressions to help the main logic stand out. Originally intended for pushing Go’s error-wrapping blocks and JavaScript logging lines slightly into the background.
 
-### ovpn-auth
+### ovpn-auth (2021-2025)
 
 [GitHub](https://github.com/ufukty/ovpn-auth)
 
 Provides basic authentication for an OpenVPN server. It supports TOTP-based codes and password checks and uses Argon2 to handle hashing securely.
 
-### Reddit Galaxy
+### Reddit Galaxy (2020)
 
 [GitHub](https://github.com/ufukty/reddit-galaxy)
 
