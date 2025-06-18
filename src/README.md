@@ -113,6 +113,4 @@ A PHP-based application that processes AJAX calls to an API and provides a strai
 
 <a class="project-link" href="https://github.com/ufukty/TicTacToe-AI" target="_blank">GitHub</a>
 
-<img class="project-promo-image" alt="TicTacToe project" src=".assets/ttt.gif">
-
 Complete implementation of unbeatable TicTacToe game with Alpha-Beta Pruning. (Visual C++)
