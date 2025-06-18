@@ -19,7 +19,7 @@ Tools with example work in this page:
 -   **Python**: [Diffusion of Innovation](#diffusion-of-innovation-simulation-2020), [Reddit Galaxy](#reddit-galaxy-2020)
 -   **TypeScript (JavaScript)**: [Gonfique Playground](#gonfique-playground-2024-2025), [Dim](#dim-2024-2025)
 -   **PHP**: [Poor Man's Social Media](#poor-man-s-social-media-2016-2024)
--   **C++**: [ball-and-stick-man](#ball-and-stick-man-2016), [TicTacToe AI with TUI](#tictactoe-with-alpha-beta-pruning-2014-2018)
+-   **C++**: [ball-and-stick-man](#ball-and-stick-man-2016), [TicTacToe AI](#tictactoe-ai-2014-2018)
 
 Tools with examples on GitHub:
 
@@ -32,85 +32,157 @@ Tools with examples on GitHub:
 
 ### Gohandlers (2025)
 
-<a class="project-link" href="https://github.com/ufukty/gohandlers" target="_blank">GitHub</a>
-<a class="project-link" href="https://gohandlers.pages.dev/" target="_blank">Docs</a>
+{.project-links}
 
-<img class="project-promo-image" alt="Social media cart for Gohandlers" src=".assets/gohandlers.png">
+-   [GitHub](https://github.com/ufukty/gohandlers)
+-   [Docs](https://gohandlers.pages.dev/)
+
+<img class="project-promo" alt="Social media cart for Gohandlers" src=".assets/gohandlers.png">
 
 Generate code for strongly typed and reflectionless request-response binding, request validation, registering routes and Go clients.
 
+{.hashtags}
+
+-   Go
+-   AST
+
 ### Kask (2025)
 
-<a class="project-link" href="https://github.com/ufukty/kask" target="_blank">GitHub</a>
+{.project-links}
+
+-   [GitHub](https://github.com/ufukty/kask)
 
 A static website generator allows developer-writer collaboration without synchronization.
 
+{.hashtags}
+
+-   Go
+-   Templating
+
 ### Gonfique Playground (2024-2025)
 
-<a class="project-link" href="https://gonfique.pages.dev" target="_blank">Playground</a>
-<a class="project-link" href="https://github.com/ufukty/gonfique-playground" target="_blank">GitHub</a>
+{.project-links}
 
-<img class="project-promo-image" alt="Screenshot of Gonfique Playground" src=".assets/gp.png">
+-   [Playground](https://gonfique.pages.dev)
+-   [GitHub](https://github.com/ufukty/gonfique-playground)
 
-Brings Gonfique to browsers. It is a web app built on the Monaco editor and Golang WASM, providing an extremely responsive development environment where you can see the results of changes to the input file and Gonfique config in real time. Written in TypeScript and built with Vite to produce static files, it still works offline.
+<img class="project-promo" alt="Screenshot of Gonfique Playground" src=".assets/gp.png">
+
+Brings Gonfique to browsers.
+
+{.hashtags}
+
+-   TypeScript
+-   Microsoft Monaco
+-   Go WASM
 
 ### Gonfique (2024-2025)
 
-<a class="project-link" href="https://github.com/ufukty/gonfique" target="_blank">GitHub</a>
+{.project-links}
 
-<img class="project-promo-image" alt="Gonfique logo" src=".assets/gonfique.png">
+-   [GitHub](https://github.com/ufukty/gonfique)
+
+<img class="project-promo" alt="Gonfique logo" src=".assets/gonfique.png">
 
 Customizable and offline YAML and JSON to Go for config files.
 
+{.hashtags}
+
+-   Go
+-   Code generator
+
 ### Dim (2024-2025)
 
-<a class="project-link" href="https://marketplace.visualstudio.com/items?itemName=ufukty.dim" target="_blank">Marketplace</a>
-<a class="project-link" href="https://github.com/ufukty/dim" target="_blank">GitHub</a>
+{.project-links}
 
-<img class="project-promo-image" alt="Dim logo" src=".assets/dim.png">
+-   [Marketplace](https://marketplace.visualstudio.com/items?itemName=ufukty.dim)
+-   [GitHub](https://github.com/ufukty/dim)
+
+<img class="project-promo" alt="Dim logo" src=".assets/dim.png">
 
 A Visual Studio Code extension lets you define regex rules to dim boring parts of code and make the main logic pop.
 
+{.hashtags}
+
+-   DX
+
 ### ovpn-auth (2021-2025)
 
-<a class="project-link" href="https://github.com/ufukty/ovpn-auth" target="_blank">GitHub</a>
+{.project-links}
 
-Provides basic authentication for an OpenVPN server. It supports TOTP-based codes and password checks and uses Argon2 to handle hashing securely.
+-   [GitHub](https://github.com/ufukty/ovpn-auth)
+
+Simple to use, easy to deploy 2FA login for OpenVPN servers.
+
+{.hashtags}
+
+-   Go
+-   Security
 
 ### Reddit Galaxy (2020)
 
-<a class="project-link" href="https://github.com/ufukty/reddit-galaxy" target="_blank">GitHub</a>
+{.project-links}
 
-Shows the connections between subreddits based on shared links; one end of the link is orange, the other is blue. Built with Apache Spark, Python, and Matplotlib.
+-   [GitHub](https://github.com/ufukty/reddit-galaxy)
 
-<img class="project-promo-image" alt="reddit galaxy" src=".assets/reddit-galaxy.jpg">
+<img class="project-promo" alt="reddit galaxy" src=".assets/reddit-galaxy.jpg">
+
+Visualization of the links between subreddits.
+
+{.hashtags}
+
+-   Network visualization
 
 ### Diffusion of Innovation simulation (2020)
 
-<a class="project-link" href="https://github.com/ufukty/diffusion-of-innovation" target="_blank">GitHub</a>
+{.project-links}
 
-Simulates the spread of a hypothetical innovation in different types of communities, where members progress through seven states (from initial awareness to confirmation). Observes the resulting s-curve of adoption and the role of high-degree nodes. Created using Python, Matplotlib, and NetworkX.
+-   [GitHub](https://github.com/ufukty/diffusion-of-innovation)
 
-<img class="project-promo-image" alt="diffusion of innovation project screen capture" src=".assets/doi.gif">
+<img class="project-promo" alt="diffusion of innovation project screen capture" src=".assets/doi.gif">
+
+Simulates the spread of hypothetical innovation throughout from its genesis to total market domination to observe S-curve phenomenon and the influence of populars on communities with varying topologies.
+
+{.hashtags}
+
+-   Agent based simulation
 
 ### ball-and-stick-man (2016)
 
-<a class="project-link" href="https://github.com/ufukty/ball-and-stick-man" target="_blank">GitHub</a>
+{.project-links}
 
-A basic 3D demonstration with a movable camera, animated arms, a “tour” mode, and waving interactions. Created with C++ and OpenGL (GLUT).
+-   [GitHub](https://github.com/ufukty/ball-and-stick-man)
 
-<img class="project-promo-image" alt="footage for ball-and-stick-man project" src=".assets/ball-and-stick.gif">
+<img class="project-promo" alt="footage for ball-and-stick-man project" src=".assets/ball-and-stick.gif">
+
+A basic 3D demonstration with a movable camera, animated arms, a “tour” mode, and waving interactions.
+
+{.hashtags}
+
+-   Computer graphics
 
 ### Poor Man's Social Media (2016,2024)
 
-<a class="project-link" href="https://github.com/ufukty/poor-man-s-social-media" target="_blank">GitHub</a>
+{.project-links}
 
-<img class="project-promo-image" alt="screen capture of poor man's social media project" src=".assets/social.gif">
+-   [GitHub](https://github.com/ufukty/poor-man-s-social-media)
 
-A PHP-based application that processes AJAX calls to an API and provides a straightforward frontend for user interaction with JavaScript.
+<img class="project-promo" alt="screen capture of poor man's social media project" src=".assets/social.gif">
 
-### TicTacToe with Alpha-Beta Pruning (2014-2018)
+Social network backend and frontend. Written with JS and PHP demonstrating connection status manipulation and asynchronous API calls.
 
-<a class="project-link" href="https://github.com/ufukty/TicTacToe-AI" target="_blank">GitHub</a>
+{.hashtags}
 
-Complete implementation of unbeatable TicTacToe game with Alpha-Beta Pruning. (Visual C++)
+-   Social media
+-   Web application
+
+### TicTacToe AI (2014-2018)
+
+{.project-links}
+
+-   [GitHub](https://github.com/ufukty/TicTacToe-AI)
+
+Complete implementation of unbeatable TicTacToe game.
+
+-   Visual C++
+-   Alpha-Beta pruning
