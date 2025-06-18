@@ -11,12 +11,14 @@ html {
   font-weight: 400;
   font-style: normal;
 
-  width: min(100%, 500px);
+  width: min(100%, 700px);
   margin: 0 auto;
+
+  scroll-behavior: smooth;
 }
 
 body {
-  padding: 2em 2em 200px;
+  padding: 2em 2em 30vh;
 }
 
 ul,
@@ -58,4 +60,27 @@ h6 {
 
 p {
   line-height: 2em;
+}
+
+a.project-link {
+  display: inline-block;
+  /* background-color: light-dark(#eee, #222); */
+  border: 1px solid light-dark(#000, #fff);
+  color: light-dark(#000, #fff);
+  background-color: light-dark(#fff, #000);
+  padding: 2px 12px 0px;
+  text-decoration: none;
+  border-radius: 9999px;
+
+  transition: 180ms all ease-out;
+
+  &:hover {
+    color: light-dark(#fff, #000);
+    background-color: light-dark(#000, #fff);
+  }
+}
+
+.project-promo-image {
+  display: block;
+  border-radius: 12px;
 }
