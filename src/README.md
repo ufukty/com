@@ -19,7 +19,7 @@ Tools with example work in this page:
 -   **Python**: [Diffusion of Innovation](#diffusion-of-innovation-simulation-2020), [Reddit Galaxy](#reddit-galaxy-2020)
 -   **TypeScript (JavaScript)**: [Gonfique Playground](#gonfique-playground-2024-2025), [Dim](#dim-2024-2025)
 -   **PHP**: [Poor Man's Social Media](#poor-man-s-social-media-2016-2024)
--   **C++**: [ball-and-stick-man](#ball--stick-man-2016), [TicTacToe AI](#tictactoe-ai-2014-2018)
+-   **C++**: [Ball & Stick Man](#ball-stick-man-2016), [TicTacToe AI](#tictactoe-ai-2014-2018)
 
 Tools with examples on GitHub:
 
