@@ -109,7 +109,7 @@ A Visual Studio Code extension lets you define regex rules to dim boring parts o
 -   [Marketplace](https://marketplace.visualstudio.com/items?itemName=ufukty.dim)
 -   [GitHub](https://github.com/ufukty/dim)
 
-### ovpn-auth (2021-2025)
+### Ovpn Auth (2021-2025)
 
 Simple to use, easy to deploy 2FA login for OpenVPN servers.
 
@@ -155,7 +155,7 @@ Simulates the spread of hypothetical innovation throughout from its genesis to t
 
 -   [GitHub](https://github.com/ufukty/diffusion-of-innovation)
 
-### ball-and-stick-man (2016)
+### Ball & Stick Man (2016)
 
 ![footage for ball-and-stick-man project](.assets/ball-and-stick.gif)
 
