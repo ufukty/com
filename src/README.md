@@ -48,6 +48,8 @@ Generate code for strongly typed and reflectionless request-response binding, re
 
 ### Kask (2025)
 
+![Kask social card](.assets/kask.png)
+
 A static website generator allows developer-writer collaboration without synchronization.
 
 **Highlights:**
