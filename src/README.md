@@ -1,6 +1,14 @@
 # Ufuktan Yıldırım
 
-Software Developer with an MSc in Computer Engineering from Ankara University (2024) located in Turkiye.
+Software developer with an MSc in CE who spent the last decade experimenting with end-to-end software based product development, shaping arbitrary app ideas into working prototypes using Sketch, Go, CSS and TypeScript.
+
+I enjoy bootstrapping infrastructure, from spinning up Linux server clusters with GNU tools to automating operations using Shell scripts, Terraform, and Ansible. A dedicated Git enthusiast, I regularly contribute to open source and continuously experiment with GitHub CI workflows. I'm the creator of open source tools Gohandlers and Gonfique which are enforcing type safety and improve reliability on the two big ongoing problems of Go backend development.
+
+My research was on applying genetic programming on finding the test-passing Go functions using recombinating and selecting fitter ASTs. Previously wrote Python for Reddit data visualization and agent-based social network simulation on the theory of Diffusion of Innovations. I'm familiar with iOS development using Swift and UIKit. Had a commit once on the Packer repository to enable configuring DigitalOcean droplets closed to outside private network.
+
+I'm slightly biased towards B2C, valuing a software's impact on public. Interested on the areas in-touch with PM and marketing.
+
+Still waiting for the day I finally have enough credits to fully explore AWS or GCP on scale.
 
 ## Contact
 
