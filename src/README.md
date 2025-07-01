@@ -23,7 +23,7 @@ Still waiting for the day I finally have enough credits to fully explore AWS or 
 
 Tools with example work in this page:
 
--   **Go**: [Gohandlers](#gohandlers-2025), [Gonfique](#gonfique-2024-2025), [Kask](#kask-2025), [ovpn-auth](#ovpn-auth-2021-2025)
+-   **Go**: [Gohandlers](#gohandlers-2025), [Gonfique](#gonfique-2024-2025), [Kask](#kask-2025), [ovpn-auth](#ovpn-auth-2021-2025), [Bump](#bump-2024-2025)
 -   **Python**: [Diffusion of Innovation](#diffusion-of-innovation-simulation-2020), [Reddit Galaxy](#reddit-galaxy-2020)
 -   **TypeScript (JavaScript)**: [Gonfique Playground](#gonfique-playground-2024-2025), [Dim](#dim-2024-2025)
 -   **PHP**: [Poor Man's Social Media](#poor-man-s-social-media-2016-2024)
@@ -68,6 +68,23 @@ A static website generator allows developer-writer collaboration without synchro
 **Links:**
 
 -   [GitHub](https://github.com/ufukty/kask)
+
+### Bump (2024-2025)
+
+![Bump social card](.assets/bump.png)
+
+Smallest compiled CLI utility bumps with one command.
+
+**Highlights**
+
+-   Go
+-   Git
+-   Semantic versioning
+-   Developer experience
+
+**Links**
+
+-   [GitHub](https://github.com/ufukty/bump)
 
 ### Gonfique Playground (2024-2025)
 
