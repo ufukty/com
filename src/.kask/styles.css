@@ -26,7 +26,6 @@ ol {
   padding-inline-start: 20px;
 }
 
-
 li {
   line-height: 2em;
 }
@@ -54,11 +53,20 @@ h6 {
   margin-top: 2em;
 }
 
-:not(:is(h2, h3, h4, h5, h6))+:is(h2, h3, h4, h5, h6) {
+:not(:is(h2, h3, h4, h5, h6)) + :is(h2, h3, h4, h5, h6) {
   padding-top: 2em;
   border-top: 1px solid light-dark(#eee, #222);
 }
 
 p {
   line-height: 2em;
+}
+
+#profile-shot {
+  & > img {
+    width: 230px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 50px 0 0;
+  }
 }

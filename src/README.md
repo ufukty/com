@@ -1,3 +1,6 @@
+{#profile-shot}
+![Profile shot](.assets/profile.jpeg)
+
 # Ufuktan Yıldırım
 
 Software developer with an MSc in CE who spent the last decade experimenting with end-to-end software based product development, shaping arbitrary app ideas into working prototypes using Sketch, Go, CSS and TypeScript.
