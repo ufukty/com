@@ -27,11 +27,11 @@ Still waiting for the day I finally have enough credits to fully explore AWS or 
 
 Tools with example work in this page:
 
--   **Go**: [Gohandlers](#gohandlers-2025), [Gonfique](#gonfique-2024-2025), [Kask](#kask-2025), [ovpn-auth](#ovpn-auth-2021-2025), [Bump](#bump-2024-2025)
--   **Python**: [Diffusion of Innovation](#diffusion-of-innovation-simulation-2020), [Reddit Galaxy](#reddit-galaxy-2020)
--   **TypeScript (JavaScript)**: [Gonfique Playground](#gonfique-playground-2024-2025), [Dim](#dim-2024-2025)
--   **PHP**: [Poor Man's Social Media](#poor-man-s-social-media-2016-2024)
--   **C++**: [Ball & Stick Man](#ball-stick-man-2016), [TicTacToe AI](#tictactoe-ai-2014-2018)
+-   **Go**: [Gohandlers](#gohandlers), [Gonfique](#gonfique), [Kask](#kask), [ovpn-auth](#ovpn-auth), [Bump](#bump)
+-   **Python**: [Diffusion of Innovation](#diffusion-of-innovation-simulation), [Reddit Galaxy](#reddit-galaxy)
+-   **TypeScript (JavaScript)**: [Gonfique Playground](#gonfique-playground), [Dim](#dim)
+-   **PHP**: [Poor Man's Social Media](#poor-man-s-social-media)
+-   **C++**: [Ball & Stick Man](#ball-stick-man), [TicTacToe AI](#tictactoe-ai)
 
 Tools with examples on GitHub:
 
@@ -42,7 +42,7 @@ Tools with examples on GitHub:
 
 ## Public projects
 
-### Gohandlers (2025)
+### Gohandlers
 
 ![Social media cart for Gohandlers](.assets/gohandlers.png)
 
@@ -50,6 +50,7 @@ Generate code for strongly typed and reflectionless request-response binding, re
 
 **Highlights:**
 
+-   Year: 2025
 -   Go
 -   AST
 
@@ -58,7 +59,7 @@ Generate code for strongly typed and reflectionless request-response binding, re
 -   [GitHub](https://github.com/ufukty/gohandlers)
 -   [Docs](https://gohandlers.pages.dev/)
 
-### Kask (2025)
+### Kask
 
 ![Kask social card](.assets/kask.png)
 
@@ -66,6 +67,7 @@ A static website generator allows developer-writer collaboration without synchro
 
 **Highlights:**
 
+-   Year: 2025
 -   Go
 -   Templating
 
@@ -73,7 +75,7 @@ A static website generator allows developer-writer collaboration without synchro
 
 -   [GitHub](https://github.com/ufukty/kask)
 
-### Bump (2024-2025)
+### Bump
 
 ![Bump social card](.assets/bump.png)
 
@@ -81,6 +83,7 @@ Smallest compiled CLI utility bumps with one command.
 
 **Highlights**
 
+-   Years: 2024-2025
 -   Go
 -   Git
 -   Semantic versioning
@@ -90,7 +93,7 @@ Smallest compiled CLI utility bumps with one command.
 
 -   [GitHub](https://github.com/ufukty/bump)
 
-### Gonfique Playground (2024-2025)
+### Gonfique Playground
 
 ![Screenshot of Gonfique Playground](.assets/gp.png)
 
@@ -98,6 +101,7 @@ Brings Gonfique to browsers.
 
 **Highlights:**
 
+-   Years: 2024-2025
 -   TypeScript
 -   Microsoft Monaco
 -   Go WASM
@@ -107,7 +111,7 @@ Brings Gonfique to browsers.
 -   [Playground](https://gonfique.pages.dev)
 -   [GitHub](https://github.com/ufukty/gonfique-playground)
 
-### Gonfique (2024-2025)
+### Gonfique
 
 ![Gonfique logo](.assets/gonfique.png)
 
@@ -115,6 +119,7 @@ Customizable and offline YAML and JSON to Go for config files.
 
 **Highlights:**
 
+-   Years: 2024-2025
 -   Go
 -   Code generator
 
@@ -122,7 +127,7 @@ Customizable and offline YAML and JSON to Go for config files.
 
 -   [GitHub](https://github.com/ufukty/gonfique)
 
-### Dim (2024-2025)
+### Dim
 
 ![Dim logo](.assets/dim.png)
 
@@ -130,6 +135,7 @@ A Visual Studio Code extension lets you define regex rules to dim boring parts o
 
 **Highlights:**
 
+-   Years: 2024-2025
 -   Developer Experience
 -   Visual Studio Code Extensions API
 
@@ -138,12 +144,13 @@ A Visual Studio Code extension lets you define regex rules to dim boring parts o
 -   [Marketplace](https://marketplace.visualstudio.com/items?itemName=ufukty.dim)
 -   [GitHub](https://github.com/ufukty/dim)
 
-### Ovpn Auth (2021-2025)
+### Ovpn Auth
 
 Simple to use, easy to deploy 2FA login for OpenVPN servers.
 
 **Highlights:**
 
+-   Years: 2021-2025
 -   Go
 -   Security
 
@@ -151,7 +158,7 @@ Simple to use, easy to deploy 2FA login for OpenVPN servers.
 
 -   [GitHub](https://github.com/ufukty/ovpn-auth)
 
-### Reddit Galaxy (2020)
+### Reddit Galaxy
 
 ![reddit galaxy](.assets/reddit-galaxy.jpg)
 
@@ -159,6 +166,7 @@ Visualization of the links between subreddits.
 
 **Highlights:**
 
+-   Year: 2020
 -   Network visualization
 -   Python
 -   Matplotlib
@@ -167,7 +175,7 @@ Visualization of the links between subreddits.
 
 -   [GitHub](https://github.com/ufukty/reddit-galaxy)
 
-### Diffusion of Innovation simulation (2020)
+### Diffusion of Innovation simulation
 
 ![diffusion of innovation project screen capture](.assets/doi.gif)
 
@@ -175,6 +183,7 @@ Simulates the spread of hypothetical innovation throughout from its genesis to t
 
 **Highlights:**
 
+-   Year: 2020
 -   Agent based simulation
 -   Python
 -   NetworkX
@@ -184,7 +193,7 @@ Simulates the spread of hypothetical innovation throughout from its genesis to t
 
 -   [GitHub](https://github.com/ufukty/diffusion-of-innovation)
 
-### Ball & Stick Man (2016)
+### Ball & Stick Man
 
 ![footage for ball-and-stick-man project](.assets/ball-and-stick.gif)
 
@@ -192,13 +201,14 @@ A basic 3D demonstration with a movable camera, animated arms, a “tour” mode
 
 **Highlights:**
 
+-   Year: 2016
 -   Computer graphics
 
 **Links:**
 
 -   [GitHub](https://github.com/ufukty/ball-and-stick-man)
 
-### Poor Man's Social Media (2016,2024)
+### Poor Man's Social Media
 
 ![screen capture of poor man's social media project](.assets/social.gif)
 
@@ -206,6 +216,7 @@ Social network backend and frontend. Written with JS and PHP demonstrating conne
 
 **Highlights:**
 
+-   Years: 2016-2024
 -   Social media
 -   Web application
 
@@ -213,12 +224,13 @@ Social network backend and frontend. Written with JS and PHP demonstrating conne
 
 -   [GitHub](https://github.com/ufukty/poor-man-s-social-media)
 
-### TicTacToe AI (2014-2018)
+### TicTacToe AI
 
 Complete implementation of unbeatable TicTacToe game.
 
 **Highlights:**
 
+-   Years: 2014-2018
 -   Visual C++
 -   Alpha-Beta pruning
 
