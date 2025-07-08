@@ -1,5 +1,5 @@
 {#profile-shot}
-![Profile shot](.assets/profile.jpeg)
+![Profile shot](.assets/profile.jpg)
 
 # Ufuktan Yıldırım
 
