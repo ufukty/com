@@ -145,6 +145,23 @@ A Visual Studio Code extension lets you define regex rules to dim boring parts o
 -   [Marketplace](https://marketplace.visualstudio.com/items?itemName=ufukty.dim)
 -   [GitHub](https://github.com/ufukty/dim)
 
+### TDE
+
+![TDE logotype](.assets/tde.png)
+
+Tooling for finding test-passing Go code using Genetic Programming.
+
+**Highlights**
+
+-   Years: 2023-2024
+-   Research
+-   Published as a Master's thesis
+
+**Links**
+
+-   [GitHub](https://github.com/ufukty/tde)
+-   [The thesis (in Turkish)](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW)
+
 ### Ovpn Auth
 
 Simple to use, easy to deploy 2FA login for OpenVPN servers.
