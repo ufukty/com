@@ -26,6 +26,7 @@ Still waiting for the day I finally have enough credits to fully explore AWS or 
 -   [X](https://x.com/ufukty)
 -   [Bluesky](https://bsky.app/profile/ufukty.bsky.social)
 -   [Hugging Face](https://huggingface.co/ufukty)
+-   [Reddit](https://www.reddit.com/user/ufukty/comments/?sort=top)
 
 ## Tools
 
