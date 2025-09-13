@@ -113,7 +113,7 @@ Brings Gonfique to browsers.
 
 **Links:**
 
--   [Playground](https://gonfique.pages.dev)
+-   [Playground](https://gonfique.com)
 -   [GitHub](https://github.com/ufukty/gonfique-playground)
 
 ### Gonfique
