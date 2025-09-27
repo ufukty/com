@@ -3,15 +3,21 @@
 
 # Ufuktan Yıldırım
 
-Software developer with an MSc in CE who spent the last decade experimenting with end-to-end software based product development, shaping arbitrary app ideas into working prototypes using Sketch, Go, CSS and TypeScript.
+MSc in Computer Engineering with 10+ years of experience spanning full-stack
+development, developer tooling, and independent product ventures. Started with peering
+a Bachelor’s capstone project that evolved into a independent venture; an ambitious
+social utility app combining mobile and backend development with face-recognition
+features. Paused this to focus on another venture, a leaner project on personal product
+management tool area, reusing technical foundations while producing impactful open-
+source developer tools (e.g., Gohandlers, Gonfique, Dim). Published a master’s thesis on
+genetic programming and explored network science through simulations and data
+visualizations (e.g., Reddit Galaxy, featured with 5k+ upvotes). Passionate about bridging
+deep technical execution with product strategy; from backend architectures and web
+application security to branding, documentation, and market validation. Motivated to
+contribute to B2C software with high user engagement and to help shape early-stage
+product growth.
 
-I enjoy bootstrapping infrastructure, from spinning up Linux server clusters with GNU tools to automating operations using Shell scripts, Terraform, and Ansible. A dedicated Git enthusiast, I regularly contribute to open source and continuously experiment with GitHub CI workflows. I'm the creator of open source tools Gohandlers and Gonfique which are enforcing type safety and improve reliability on the two big ongoing problems of Go backend development.
-
-My research was on applying genetic programming on finding the test-passing Go functions using recombinating and selecting fitter ASTs. Previously wrote Python for Reddit data visualization and agent-based social network simulation on the theory of Diffusion of Innovations. I'm familiar with iOS development using Swift and UIKit. Had a commit once on the Packer repository to enable configuring DigitalOcean droplets closed to outside private network.
-
-I'm slightly biased towards B2C, valuing a software's impact on public. Interested on the areas in-touch with PM and marketing.
-
-Still waiting for the day I finally have enough credits to fully explore AWS or GCP on scale.
+[Download my CV](.assets/CV.2025.09.27.pdf)
 
 ## Contact
 
