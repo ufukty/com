@@ -17,7 +17,7 @@ application security to branding, documentation, and market validation. Motivate
 contribute to B2C software with high user engagement and to help shape early-stage
 product growth.
 
-[Download my CV](.assets/CV.2025.09.29.pdf)
+[Download my CV](.assets/CV/CV.2025.10.04.pdf)
 
 ## Contact
 
