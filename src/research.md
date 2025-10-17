@@ -1,6 +1,6 @@
 # Research
 
-Research from my years in Master's education in Ankara University.
+Research from my years in the Master's program at Ankara University.
 
 ## TDE
 
