@@ -7,7 +7,7 @@
     display:block;
     border-radius: 50%;
     overflow: hidden;
-    margin-top: 2em;
+    margin-top: 4em;
 
     width: min(60%, 230px);
   }
