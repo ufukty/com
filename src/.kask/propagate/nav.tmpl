@@ -1,7 +1,7 @@
 {{define "nav"}}
 <nav>
+  <a id="home-button" href="/"><img src="/.assets/profile.jpg"></a>
   <ul>
-    <li id="home-button"><a href="/"><img src="/.assets/profile.jpg"></a></li>
     {{$node := .Node}}
     {{range .Root.Children}}
     <li>
