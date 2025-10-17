@@ -6,7 +6,7 @@ html {
   color: light-dark(#444, #ddd);
   background-color: light-dark(#fff, #000);
 
-  font-family: monospace;
+  font-family: Arial;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
