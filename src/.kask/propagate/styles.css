@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  padding: 2em 2em 50vh;
+  padding: 2em 2em 200px;
   margin: 0 auto;
   width: min(100%, 700px);
 }
