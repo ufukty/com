@@ -1,0 +1,17 @@
+{{define "nav"}}
+<nav>
+  <ul>
+    <li id="home-button"><a href="/"><img src="/.assets/profile.jpg"></a></li>
+    {{$node := .Node}}
+    {{range .Root.Children}}
+    <li>
+      {{if ne .Href ""}}
+      <a href="{{.Href}}" {{if eq . $node}}class="current-page" {{end}}>{{.Title}}</a>
+      {{else}}
+      <span>{{.Title}}</span>
+      {{end}}
+    </li>
+    {{end}}
+  </ul>
+</nav>
+{{end}}
