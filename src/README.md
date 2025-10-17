@@ -1,5 +1,5 @@
 {#profile-shot}
-![Profile shot](.assets/profile.jpg)
+![Profile shot](/.assets/profile.jpg)
 
 # Ufuktan Yıldırım
 
@@ -17,7 +17,7 @@ application security to branding, documentation, and market validation. Motivate
 contribute to B2C software with high user engagement and to help shape early-stage
 product growth.
 
-[Download my CV](.assets/cv/2025.10.04.pdf)
+[Download my CV](/.assets/cv/2025.10.04.pdf)
 
 ## Contact
 
@@ -34,234 +34,70 @@ product growth.
 -   [Hugging Face](https://huggingface.co/ufukty)
 -   [Reddit](https://www.reddit.com/user/ufukty/comments/?sort=top)
 
-## Tools
+## Projects
 
-Tools with example work in this page:
+### Logbook
 
--   **Go**: [Gohandlers](#gohandlers), [Gonfique](#gonfique), [Kask](#kask), [ovpn-auth](#ovpn-auth), [Bump](#bump)
--   **Python**: [Diffusion of Innovation](#diffusion-of-innovation-simulation), [Reddit Galaxy](#reddit-galaxy)
--   **TypeScript (JavaScript)**: [Gonfique Playground](#gonfique-playground), [Dim](#dim)
--   **PHP**: [Poor Man's Social Media](#poor-man-s-social-media)
--   **C++**: [Ball & Stick Man](#ball-stick-man), [TicTacToe AI](#tictactoe-ai)
+![Logbook](/.assets/logbook.png)
 
-Tools with examples on GitHub:
+Yet another app for doers but Logbook doesn't want you to plan.
 
--   **Bash**: [Droplet creation, templating and server configuration](https://github.com/ufukty/logbook/blob/d1e9bd9df6997e0ddc24b49f2e4d0c12e0fb95aa/platform/stage/deploy/vpn/local.sh)
--   **Terraform**: [PR for base32 support](https://github.com/hashicorp/terraform/pull/29127)
--   **Packer**: [PR for connecting droplets via private IP](https://github.com/hashicorp/packer/pull/10093)
--   **Make**: [Gonfique Makefile](https://github.com/ufukty/gonfique/blob/76ba1921e817d31a474a9d7362344087b7b34c66/Makefile)
+## Research
 
-## Public projects
-
-### Gohandlers
-
-![Social media cart for Gohandlers](.assets/gohandlers.png)
-
-Generate code for strongly typed and reflectionless request-response binding, request validation, registering routes and Go clients.
-
-**Highlights:**
-
--   Year: 2025
--   Go
--   AST
-
-**Links:**
-
--   [GitHub](https://github.com/ufukty/gohandlers)
--   [Docs](https://gohandlers.pages.dev/)
-
-### Kask
-
-![Kask social card](.assets/kask.png)
-
-A static website generator allows developer-writer collaboration without synchronization.
-
-**Highlights:**
-
--   Year: 2025
--   Go
--   Templating
-
-**Links:**
-
--   [GitHub](https://github.com/ufukty/kask)
-
-### Bump
-
-![Bump social card](.assets/bump.png)
-
-Smallest compiled CLI utility bumps with one command.
-
-**Highlights**
-
--   Years: 2024-2025
--   Go
--   Git
--   Semantic versioning
--   Developer experience
-
-**Links**
-
--   [GitHub](https://github.com/ufukty/bump)
-
-### Gonfique Playground
-
-![Screenshot of Gonfique Playground](.assets/gp.png)
-
-Brings Gonfique to browsers.
-
-**Highlights:**
-
--   Years: 2024-2025
--   TypeScript
--   Microsoft Monaco
--   Go WASM
-
-**Links:**
-
--   [Playground](https://gonfique.com)
--   [GitHub](https://github.com/ufukty/gonfique-playground)
-
-### Gonfique
-
-![Gonfique logo](.assets/gonfique.png)
-
-Customizable and offline YAML and JSON to Go for config files.
-
-**Highlights:**
-
--   Years: 2024-2025
--   Go
--   Code generator
-
-**Links:**
-
--   [GitHub](https://github.com/ufukty/gonfique)
-
-### Dim
-
-![Dim logo](.assets/dim.png)
-
-A Visual Studio Code extension lets you define regex rules to dim boring parts of code and make the main logic pop.
-
-**Highlights:**
-
--   Years: 2024-2025
--   Developer Experience
--   Visual Studio Code Extensions API
-
-**Links:**
-
--   [Marketplace](https://marketplace.visualstudio.com/items?itemName=ufukty.dim)
--   [GitHub](https://github.com/ufukty/dim)
+Research from my years in Master's education in Ankara University.
 
 ### TDE
 
-![TDE logotype](.assets/tde.png)
+![TDE logotype](/.assets/tde.png)
 
-Tooling for finding test-passing Go code using Genetic Programming.
-
-**Highlights**
-
--   Years: 2023-2024
--   Research
--   Published as a Master's thesis
-
-**Links**
-
--   [GitHub](https://github.com/ufukty/tde)
--   [The thesis (in Turkish)](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW)
-
-### Ovpn Auth
-
-Simple to use, easy to deploy 2FA login for OpenVPN servers.
-
-**Highlights:**
-
--   Years: 2021-2025
--   Go
--   Security
-
-**Links:**
-
--   [GitHub](https://github.com/ufukty/ovpn-auth)
+Published a master's thesis on the current problems on producing test-passing Go functions using Genetic Programming. [GitHub](https://github.com/ufukty/tde), [Tez Merkezi](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=weFMBHaUra8rsS5wi2bmHDKlIvi-IwlFkdPWTMwNi0k9Pt1C4PzNAFzxcjzHPgAW)
 
 ### Reddit Galaxy
 
-![reddit galaxy](.assets/reddit-galaxy.jpg)
+![reddit galaxy](/.assets/reddit-galaxy.jpg)
 
-Visualization of the links between subreddits.
-
-**Highlights:**
-
--   Year: 2020
--   Network visualization
--   Python
--   Matplotlib
-
-**Links:**
-
--   [GitHub](https://github.com/ufukty/reddit-galaxy)
+Visualization of the links between subreddits. [GitHub](https://github.com/ufukty/reddit-galaxy)
 
 ### Diffusion of Innovation simulation
 
-![diffusion of innovation project screen capture](.assets/doi.gif)
+![diffusion of innovation project screen capture](/.assets/doi.gif)
 
-Simulates the spread of hypothetical innovation throughout from its genesis to total market domination to observe S-curve phenomenon and the influence of populars on communities with varying topologies.
+Simulates the spread of hypothetical innovation throughout from its genesis to total market domination to observe S-curve phenomenon and the influence of populars on communities with varying topologies. [GitHub](https://github.com/ufukty/diffusion-of-innovation)
 
-**Highlights:**
+## Developer tools
 
--   Year: 2020
--   Agent based simulation
--   Python
--   NetworkX
--   Matplotlib
+I build developer tools for myself and publish to validate wider applicability.
 
-**Links:**
+### Gohandlers
 
--   [GitHub](https://github.com/ufukty/diffusion-of-innovation)
+![Social media cart for Gohandlers](/.assets/gohandlers.png)
 
-### Ball & Stick Man
+Generate code for strongly typed and reflectionless request-response binding, request validation, registering routes and Go clients. [GitHub](https://github.com/ufukty/gohandlers), [Docs](https://gohandlers.pages.dev/)
 
-![footage for ball-and-stick-man project](.assets/ball-and-stick.gif)
+### Kask
 
-A basic 3D demonstration with a movable camera, animated arms, a “tour” mode, and waving interactions.
+![Kask social card](/.assets/kask.png)
 
-**Highlights:**
+A static website generator allows developer-writer collaboration without synchronization. [GitHub](https://github.com/ufukty/kask), [Docs](https://kask.pages.dev).
 
--   Year: 2016
--   Computer graphics
+### Bump
 
-**Links:**
+![Bump social card](/.assets/bump.png)
 
--   [GitHub](https://github.com/ufukty/ball-and-stick-man)
+Smallest compiled CLI utility bumps with one command. [GitHub](https://github.com/ufukty/bump).
 
-### Poor Man's Social Media
+### Gonfique & Gonfique Playground
 
-![screen capture of poor man's social media project](.assets/social.gif)
+![Screenshot of Gonfique Playground](/.assets/gonfique.png)
 
-Social network backend and frontend. Written with JS and PHP demonstrating connection status manipulation and asynchronous API calls.
+Customizable and offline YAML and JSON to Go for config files. [Playground](https://gonfique.com), [GitHub](https://github.com/ufukty/gonfique-playground)
 
-**Highlights:**
+### Dim
 
--   Years: 2016-2024
--   Social media
--   Web application
+![Dim logo](/.assets/dim.png)
 
-**Links:**
+A Visual Studio Code extension lets you define regex rules to dim boring parts of code and make the main logic pop. [Marketplace](https://marketplace.visualstudio.com/items?itemName=ufukty.dim), [GitHub](https://github.com/ufukty/dim).
 
--   [GitHub](https://github.com/ufukty/poor-man-s-social-media)
+### Ovpn Auth
 
-### TicTacToe AI
-
-Complete implementation of unbeatable TicTacToe game.
-
-**Highlights:**
-
--   Years: 2014-2018
--   Visual C++
--   Alpha-Beta pruning
-
-**Links:**
-
--   [GitHub](https://github.com/ufukty/TicTacToe-AI)
+Simple to use, easy to deploy 2FA login for OpenVPN servers. [GitHub](https://github.com/ufukty/ovpn-auth)
