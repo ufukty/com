@@ -76,9 +76,6 @@ nav {
     flex-direction: row;
     align-items: center;
     gap: 0 10px;
-    width: calc(100vw - 4em);
-
-    text-overflow: ellipsis;
 
     & > li {
       list-style: none;
@@ -87,18 +84,6 @@ nav {
         display: block;
         padding: 10px;
       }
-    }
-  }
-
-  & > li:not(#home-button) {
-    min-width: 0;
-    flex-shrink: 1;
-
-    & > a {
-      text-wrap: nowrap;
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
     }
   }
 
