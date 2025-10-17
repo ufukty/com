@@ -130,7 +130,8 @@
   </head>
 
   <body>
-    {{.Markdown.Content}}
+    {{template "nav" .}}
+    <main>{{.Markdown.Content}}</main>
   </body>
 
 </html>
