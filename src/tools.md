@@ -20,9 +20,9 @@ A static website generator allows developer-writer collaboration without synchro
 
 Smallest compiled CLI utility bumps with one command. [GitHub](https://github.com/ufukty/bump).
 
-## Gonfique & Gonfique Playground
+## Gonfique
 
-![Screenshot of Gonfique Playground](/.assets/gonfique.png)
+![Screenshot of Gonfique](/.assets/gonfique.png)
 
 Customizable and offline YAML and JSON to Go for config files. [Playground](https://gonfique.com), [GitHub](https://github.com/ufukty/gonfique-playground)
 
