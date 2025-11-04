@@ -1,0 +1,13 @@
+{{define "title"}}<title>Articles</title>{{end}}
+
+{{define "content"}}
+
+<h1>Articles</h1>
+
+{{with .Node.Children}}
+<ul>
+  {{range .}}<li>{{if ne .Href ""}}<a href="{{.Href}}">{{.Title}}</a>{{else}}<span>{{.Title}}</span>{{end}}</li>{{end}}
+</ul>
+{{end}}
+
+{{end}}

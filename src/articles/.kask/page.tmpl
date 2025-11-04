@@ -1,0 +1,50 @@
+{{define "page"}}
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{template "title"}}
+
+    <meta name="title" content="Ufuktan Yıldırım — Software Developer">
+    <meta name="description" content="Software developer blending design and engineering. Discover latest work.">
+
+    <link rel="icon" type="image/png" sizes="16x16" href="/.assets/head/favicon@16w.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/.assets/head/favicon@32w.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/.assets/head/favicon@48w.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/.assets/head/favicon@64w.png">
+
+    <link rel="apple-touch-icon" sizes="120x120" href="/.assets/head/touch-icon@120w.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/.assets/head/touch-icon@152w.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/.assets/head/touch-icon@180w.png">
+
+    <link rel="icon" type="image/png" sizes="192x192" href="/.assets/head/touch-icon@192w.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/.assets/head/touch-icon@512w.png">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://ufukty.com">
+    <meta property="og:title" content="Ufuktan Yıldırım — Software Developer">
+    <meta property="og:description" content="Software developer blending design and engineering. Discover latest work.">
+    <meta property="og:image" content="https://ufukty.pages.dev/.assets/head/social-preview.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://ufukty.com">
+    <meta name="twitter:title" content="Ufuktan Yıldırım — Software Developer">
+    <meta name="twitter:description" content="Software developer blending design and engineering. Discover latest work.">
+    <meta name="twitter:image" content="https://ufukty.pages.dev/.assets/head/social-preview.png">
+
+    {{with .Stylesheets}}
+    {{range .}}
+    <link rel="stylesheet" href="{{.}}">{{end}}
+    {{end}}
+  </head>
+
+  <body>
+    {{template "nav" .}}
+    <main>{{template "content" .}}</main>
+  </body>
+
+</html>
+{{end}}
